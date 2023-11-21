@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<!--
+	Theory by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+--><html><head><title>Contato</title><meta charset="utf-8"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="assets/css/main.css"></head><body class="subpage">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-xK1XEAg4P5E8M6Xb8E9F5C3h6ELrOz6FdBk+4PRwR2Oq54qJCSo/t2+wSaOzpS1wV/mC9lr6HvwL5t4qLGYekQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+		<!-- Header -->
+			<header id="header"><div class="inner">
+					<a href="index.html" class="logo">Dra Beatriz</a>
+					<nav id="nav"><a href="index.html">Home</a>
+						<a href="generic.html">Blog</a>
+						<a href="elements.html">Contato</a>
+					</nav><a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+				</div>
+			</header><!-- Main --><section id="main" class="wrapper"><div class="inner">
+					<header class="align-center"><h2>Entre em Contato para marcar um bate-papo!</h2>
+						<p>Estou aqui para ajudar. Entre em contato comigo através do WhatsApp ou por e-mail. Clique nos icones e você será direcionado ao contato! </p>
+					</header>
+					
+
+	
+	  <p><a href="https://wa.me/5511948410911" class="icon fa-whatsapp" target="_blank"><span class="label">WhatsApp</span></a> Envie uma mensagem!</p>
+       <p> <a href="drbeatriz.terapeutaholistica@gmail.com" class="icon fa-envelope" target="_blank"><span class="label">E-mail</span></a>Envie um e-mail para drbeatriz.terapeutaholistica@gmail.com</a></p>
+						
+			
+			
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script><script src="assets/js/skel.min.js"></script><script src="assets/js/util.js"></script><script src="assets/js/main.js"></script></body></html>
