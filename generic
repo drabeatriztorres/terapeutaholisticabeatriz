@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<!--
+	Theory by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+--><html><head><title>Blog</title><meta charset="utf-8"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="assets/css/main.css"></head><body class="subpage">
+
+<!-- Header -->
+<header id="header"><div class="inner">
+        	<a href="index.html" class="logo">Dra Beatriz</a>
+					<nav id="nav"><a href="index.html">Home</a>
+						<a href="generic.html">Blog</a>
+						<a href="elements.html">Contato</a>
+					</nav><a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+        </nav><a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+    </div>
+</header><!-- Main --><section id="main" class="wrapper"><div class="inner">
+        <section id="three" class="wrapper"><div class="inner">
+                <header class="align-center"><h2>Benefícios da Terapia Holística:</h2>
+                 <h1>Em um mundo agitado, a busca por abordagens de cura holísticas tem crescido, e a terapia holística emerge como uma resposta compassiva para o equilíbrio entre corpo, mente e espírito. Os benefícios dessa prática transcendem a mera ausência de doenças, abraçando uma visão mais ampla de bem-estar.
+
+1. Equilíbrio Energético: A terapia holística reconhece a importância do equilíbrio energético para a saúde. Métodos como Reiki e acupuntura visam desbloquear e harmonizar a energia vital, proporcionando uma sensação renovada de vitalidade.
+
+2. Alívio do Estresse e Ansiedade: Ao incorporar técnicas de relaxamento, meditação e aromaterapia, a terapia holística oferece ferramentas eficazes para aliviar o estresse e a ansiedade. Essas práticas promovem um estado de calma e clareza mental.
+
+3. Promoção da Autoconsciência: A terapia holística convida os indivíduos a se conectarem consigo mesmos de maneiras mais profundas. Isso resulta em maior autoconsciência, permitindo que as pessoas compreendam e abordem melhor suas necessidades emocionais e espirituais.
+
+4. Abordagem Holística para a Saúde: Em vez de focar apenas nos sintomas, a terapia holística examina as causas subjacentes das condições de saúde. Essa abordagem mais ampla busca tratar a pessoa como um todo, promovendo uma cura mais completa e duradoura.
+
+5. Fortalecimento do Sistema Imunológico: A prática regular da terapia holística está associada ao fortalecimento do sistema imunológico. O equilíbrio energético e emocional resultante contribui para a resistência natural do corpo contra doenças.
+
+6. Melhoria na Qualidade do Sono: Muitas técnicas holísticas, como a meditação, têm sido associadas a melhorias na qualidade do sono. O relaxamento induzido por essas práticas pode ajudar na gestão do sono, promovendo um descanso mais reparador.
+
+Ao abraçar a terapia holística, os indivíduos podem experimentar uma transformação profunda em sua jornada de bem-estar. Essa abordagem única não apenas trata sintomas específicos, mas cultiva um estado de equilíbrio e vitalidade que perdura muito além da sessão terapêutica.</h1>  
+				   </div>
+       
+
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script><script src="assets/js/skel.min.js"></script><script src="assets/js/util.js"></script><script src="assets/js/main.js"></script></body></html>
